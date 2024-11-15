@@ -1,0 +1,1 @@
+worker: java -jar target/tg_bot_en-1.0-SNAPSHOT.jar
